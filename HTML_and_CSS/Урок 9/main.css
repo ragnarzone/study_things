@@ -1,0 +1,40 @@
+div[class="first div"]{
+	background: red;
+	min-height: 50px;
+}
+div[class="second div"]{
+	background: yellow;
+	min-height: 500px;
+	float: left;
+	width: 65%;
+}
+div[class="third div"]{
+	background: blue;
+	min-height: 500px;
+	float: left;
+	width: 35%;
+}
+div[class="fourth div"]{
+	background: grey;
+	min-height: 150px;
+	float: left;
+	width: 33.33%;
+}
+div[class="fifth div"]{
+	background: #999;
+	min-height: 150px;
+	float: left;
+	width: 33.33%;
+}
+div[class="sixth div"]{
+	background: red;
+	min-height: 150px;
+	float: left;
+	width: 33.33%;
+}
+div[class="seventh div"]{
+	background: #629;
+	min-height: 50px;
+	width: 100%;
+	float: left;
+}
